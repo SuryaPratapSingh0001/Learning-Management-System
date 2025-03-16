@@ -1,0 +1,1 @@
+new CourseFullException("The course " + course.getTitle() + " is already full.")
